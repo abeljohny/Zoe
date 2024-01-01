@@ -1,0 +1,58 @@
+Key,Question,Answer,Intent
+1,how are you,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+2,what can you do,"I can schedule new appointments, reschedule existing ones, and free up your schedule by canceling appointments.",smalltalk
+3,hi,"Hi <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+4,hello,"Hello <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+5,helo,"Hello <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+6,hola!,"Hola <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+7,yo,"Hello <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+8,heya,"Hey <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+9,top of the morning to you!,"And to you too! Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+10,nice to meet you,Nice to meet you too! Would you like me to book, reschedule, cancel, or lookup an appointment for you today?,greeting
+11,good morning!,<placeholder:gm>,greeting
+12,good afternoon!,<placeholder:ga>,greeting
+13,good evening!,<placeholder:ge>,greeting
+14,howdy!,Howdy <placeholder:name>,greeting
+15,salutations!,"Hello <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+16,hello there!,"Hello <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+17,bonjour!,<placeholder:gm>,greeting
+18,guten tag!,"Guten tag <placeholder:name>. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+19,great to meet you!,"And you too! Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",greeting
+20,how you?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+21,you okay?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+22,okay?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+23,you alright?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+24,you ok?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+25,u ok?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+26,u k?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+27,ok?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+28,how are you doing?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+29,how do you do today?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+30,how are you feeling today?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+31,i trust you are well.,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+32,i trust you're well.,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+33,how's it hanging?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+34,how is it hanging?,"I am functioning optimally, thank you for asking. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+35,did you get a good night's sleep?,"Yes I did, thank you. Would you like me to book, reschedule, cancel, or lookup an appointment for you today?",smalltalk
+36,can you call you something else?,"Sure, what would you like to change it to?<tags:bot>",nameops
+37,can I change your name?,"Sure, what would you like to change it to?<tags:bot>",nameops
+38,can you call u something else?,"Sure, what would you like to call me?<tags:bot>",nameops
+39,I want to call u something else,"Sure, what would you like to call me?<tags:bot>",nameops
+40,I want to call you something else,"Sure, what would you like to call me?<tags:bot>",nameops
+41,can I change my name?,"Sure, what would you like to change it to?<tags:user>",nameops
+42,can I change my nmae?,"Sure, what would you like to change it to?<tags:user>",nameops
+43,can you change my name?,"Sure, what would you like to change it to?<tags:user>",nameops
+44,can you change my nmae?,"Sure, what would you like to change it to?<tags:user>",nameops
+45,change my name please,"Sure, what would you like to change it to?<tags:user>",nameops
+46,change your name please,"Sure, what would you like to change it to?<tags:bot>",nameops
+47,update my name please,"Sure, what would you like to change it to?<tags:user>",nameops
+48,update your name please,"Sure, what would you like to change it to?<tags:bot>",nameops
+49,what's my name?,"Your name is <placeholder:name>",smalltalk
+50,show my name,"Your name is <placeholder:name>",smalltalk
+51,tell me my name,"Your name is <placeholder:name>",smalltalk
+52,tell my name,"Your name is <placeholder:name>",smalltalk
+53,what's your name?,"My name is <placeholder:botname>",smalltalk
+54,what is your name?,"My name is <placeholder:botname>",smalltalk
+55,tell me your name,"My name is <placeholder:botname>",smalltalk
+56,tell your name,"My name is <placeholder:botname>",smalltalk
+57,update you name,"Sure, what would you like to change it to?<tags:bot>",nameops

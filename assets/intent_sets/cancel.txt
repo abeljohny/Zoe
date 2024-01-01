@@ -1,0 +1,19 @@
+delete my meeting from my calendar
+remove meeting from my calendar
+remove my meeting from my calendar
+delete tomorrows meeting
+delete tomorrows meeting from my calendar
+delete tomorrow's meeting
+delete tomorrow's meeting from my calendar
+remove meeting
+remove event
+remove appointment
+cancel meeting
+cancel appointment
+cancel event
+delete meeting
+delete event
+delete appointment
+cancel my meeting with x at 2pm on 12/23/2023
+cancel my appointment with x at 2pm on 12/23/2023
+cancel 1pm tomorrow

@@ -1,0 +1,17 @@
+show my calendar.
+show me my calendar for this week.
+show all meetings i have tomorrow.
+am i free tomorrow?
+what meetings do i have tomorrow?
+am i busy tomorrow?
+what is on my schedule for today?
+what's on my schedule for today?
+what's on my schedule for tomorrow?
+what is on my schedule for tomorrow?
+what is on my schedule day after?
+what's on my schedule day after?
+what is on my schedule for next week?
+what's on my schedule for next week?
+am i free next week?
+lookup an event from 12/23/2023 to 12/25/2023
+search event

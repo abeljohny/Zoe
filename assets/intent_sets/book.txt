@@ -1,0 +1,22 @@
+add an event to my calendar.
+add an appointment to my calendar.
+add meeting.
+add appointment.
+add event.
+could you schedule an event for 1am tomorrow please?
+i have an event at 1pm tomorrow.
+schedule an event for 1am tomorrow.
+please schedule an event for 1pm tomorrow.
+please schedule a 1pm event for tomorrow.
+could you schedule a meeting for 1pm tomorrow please?
+i have a meeting at 1pm tomorrow.
+schedule a meeting for 1pm tomorrow.
+please schedule a meeting for 1pm tomorrow.
+meeting cathy at 10 tomorrow.
+meeting cathy tomorrow at 10.
+please schedule a 1pm meeting for tomorrow.
+add a meeting to my calendar.
+book
+schedule
+book me a meeting
+please book "aa" from 12:00PM to 12:30PM on 12/14/2023.
