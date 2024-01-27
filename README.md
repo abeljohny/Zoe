@@ -22,7 +22,7 @@ Sample query: `Book "meeting with Jony" on 01/29/2023 at 10pm`
 
 _note: event names are in quotes_
 
-### Searching for Calendar Events
+### Searching Calendar Events
 
 Sample query: `Show all my events for tomorrow` / `Show tomorrow`
 
