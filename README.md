@@ -39,7 +39,7 @@ New intents are introduced through the following steps:
 
 1. Create an intent set in the `intent_sets` directory with the intents’ name as the filename with the associated
    prompts as its file contents.
-2. Logic for intent sets are processed using `intent handlers` and stoed in the `intent_handlers` directory. Create an
+2. Logic for intent sets are processed using `intent handlers` and stored in the `intent_handlers` directory. Create an
    intent handler for your intent set.
 3. Retrain Zoe's classifier using the `reindex` flag.
 
