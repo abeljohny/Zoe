@@ -10,13 +10,13 @@ canceling, and searching for events while handling casual small talk through the
 
 ## Working with Zoe
 
-Follow along Zoe's prompts and experiment using the code to understand its usage.
+Follow Zoe's prompts and experiment using the code to understand its usage.
 
-See below for a cheatsheet on using Zoe with single-turn prompts.
+See below for a cheat sheet on using Zoe with single-turn prompts.
 
 ### Booking Calendar Events
 
-Sample query: `Book "meeting with Tim" at 10 tomorrow`
+Sample query: `Book "meeting with Eden" at 1.30pm tomorrow`
 
 Sample query: `Book "meeting with Jony" on 01/29/2023 at 10pm`
 
@@ -37,7 +37,7 @@ _note: event names are in quotes_
 Zoe's capabilities are extensible.
 New intents are introduced through the following steps:
 
-1. Create an intent set in the `intent_sets` directory with the intents’ name as the filename with the associated
+1. Create an intent set in the `intent_sets` directory with the intents’ name as the filename and the associated
    prompts as its file contents.
 2. Logic for intent sets are processed using `intent handlers` and stored in the `intent_handlers` directory. Create an
    intent handler for your intent set.
